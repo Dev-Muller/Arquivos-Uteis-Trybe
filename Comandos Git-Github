@@ -1,0 +1,12 @@
+git init (inicia o git)
+git add (adiciona um arquivo)
+git status (mostra os status do repositorio)
+git commit -a -m "Frase pra ser commitada) (commita todos os arquivos)
+git amend (corrige o ultimo commit feito)
+git rebase (editar mensagens de commit, combinar commits, editar ou excluir)
+git clone "link do repositorio" (clona um repo do github)
+git push (envia os arquivos commitados)
+git pull (puxa o commit do github para deixar atualizado o seu repo)
+git branch ( mostra as branchs do repo)
+git branch "nome do branch" (cria uma branch com o nome selecionado)
+git checkout -b "nome da branch" (cria branch e ja entra na branch
