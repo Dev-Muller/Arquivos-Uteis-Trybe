@@ -10,3 +10,4 @@ git pull (puxa o commit do github para deixar atualizado o seu repo)
 git branch ( mostra as branchs do repo)
 git branch "nome do branch" (cria uma branch com o nome selecionado)
 git checkout -b "nome da branch" (cria branch e ja entra na branch
+git remote origin "link do repo" (linka oteu terminal no repo que vc quer enviar"
