@@ -13,3 +13,5 @@ git checkout -b "nome da branch" (cria branch e ja entra na branch
 git remote origin "link do repo" (linka oteu terminal no repo que vc quer enviar"
 git diff (mostra as diferenças entre o repo local e o repo remoto)
 fit fetch (consulta se o repo local esta igual o repositorio remoto)
+
+# Teste
